@@ -1,0 +1,10 @@
+{
+  "id": "paste-non-blank-line",
+  "name": "Paste Non Blank Line",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Removes extra blank lines within paragraphs when pasting text or processing selected text.",
+  "author": "Pliman",
+  "authorUrl": "https://github.com/pliman",
+  "isDesktopOnly": false
+}
